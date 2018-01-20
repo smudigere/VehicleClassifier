@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "975979844014",
+    "firebase_url": "https://beltz-34fdd.firebaseio.com",
+    "project_id": "beltz-34fdd",
+    "storage_bucket": "beltz-34fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975979844014:android:fb8f2f51f98c6e1d",
+        "android_client_info": {
+          "package_name": "com.vehicleclassifier.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975979844014-hrt56rf66bjf60klucv2iji09cdqdpqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPsrXI-0V-LMeMPbFuAbPGXBlPL2M7-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
